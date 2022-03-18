@@ -1,0 +1,59 @@
+body {
+  margin: 0px;
+  font-family: "Ubuntu", sans-serif;
+}
+#img {
+  height: 320px;
+  background-color: #28b4e5;
+}
+#img img {
+  margin: 4.5% 13%;
+}
+section {
+  display: flex;
+}
+section img {
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin: 2% 2% 2% 30%;
+}
+section button {
+  width: 33.1%;
+  height: 70px;
+  background-color: #42c0ee;
+  margin: 0.1%;
+  border: none;
+}
+h1 {
+  text-align: center;
+}
+.winner {
+  color: green;
+}
+.looser {
+  color: red;
+}
+h2 {
+  float: left;
+}
+section button:hover {
+  background-color: #68f0ff;
+}
+.div {
+  background-color: #949494;
+  color: white;
+  float: left;
+  width: 30%;
+  font-size: 17px;
+  height: 38px;
+  margin: 35px 10%;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 10px 0px;
+}
+table {
+  margin: 0px auto;
+  text-align: center;
+  border-collapse: collapse;
+}
