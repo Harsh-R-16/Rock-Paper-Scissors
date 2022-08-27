@@ -24,6 +24,9 @@ section button {
   background-color: #42c0ee;
   margin: 0.1%;
   border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 h1 {
   text-align: center;
